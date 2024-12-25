@@ -29,3 +29,6 @@ Thumbs.db
 *.egg
 dist/
 build/
+
+#EC2Pair
+EC2Pair/

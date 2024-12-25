@@ -8,7 +8,6 @@ deactivate
 docker ps -a
 docker exec -it postgres psql -U yourusername -d yourdb
 password - yourpassword
-\q
 
 ### Flow
 
