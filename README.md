@@ -1,8 +1,8 @@
 Data Pipelines project.
 
-Spark Processing
-AWS S3, EMR, EC2
-PostgresQL
-Springboot + grpc API
-React Frontend
-Monitoring
+Spark Processing /n
+AWS S3, EMR, EC2 /n
+PostgresQL /n
+Springboot + grpc AP /n
+React Frontend /n
+Monitoring /n
