@@ -8,6 +8,7 @@ __pycache__/
 
 # Environment variables
 .env
+ReadThee.md
 
 # Logs and temporary files
 *.log
