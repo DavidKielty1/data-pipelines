@@ -1,20 +1,15 @@
 ## Data Pipelines project.
 
-### Tech
+#### _Tech_
 
-Spark Processing
+-Spark Processing.
+-AWS S3, EMR, EC2.
+-PostgresQL.
+-Springboot + grpc AP.
+-React Frontend.
+-Monitoring.
 
-AWS S3, EMR, EC2
+#### _Aims_
 
-PostgresQL
-
-Springboot + grpc AP
-
-React Frontend
-
-Monitoring
-
-### Aims
-
-Tailor ad recommendations to users,
-Give alternative flight recommendations.
+-Tailor ad recommendations to users,
+-Give alternative flight recommendations.
